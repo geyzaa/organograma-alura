@@ -1,0 +1,15 @@
+.fundo {
+max-width: 100%;
+}
+
+.rodape {
+   background-color: #6278F7;
+   text-align: center;
+   padding: 32px;
+}
+
+.icones {
+   display: flex;
+   justify-content: space-around;
+   padding: 24px;
+}
